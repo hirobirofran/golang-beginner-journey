@@ -3,5 +3,5 @@ Tutorial: Get started with Go - The Go Programming Language https://go.dev/doc/t
 
 ```
 $ go run .
-Hello, World!
+Don't communicate by sharing memory, share memory by communicating.
 ```
